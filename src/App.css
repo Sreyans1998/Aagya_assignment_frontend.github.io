@@ -1,0 +1,24 @@
+.dashboard{
+    position: relative;
+    height: 60rem;
+}
+.nav-item{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.menu_active{
+    color: white;
+}
+.form{
+    width: 95% !important;
+    margin-left: 2.5% !important;
+    height: 40rem;
+}
+.w-80{
+    width: 5rem;
+}
+@media only screen and (max-width: 1000px) {
+    .frame{
+        display: none !important;
+    }
+}
